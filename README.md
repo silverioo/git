@@ -1,6 +1,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/silverioo/git)
 ![GitHub](https://img.shields.io/github/license/silverioo/git)
 ![GitHub followers](https://img.shields.io/github/followers/silverioo?label=Follow&style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/silverioo/git)
 # Aprendendo Git
 ## Curso Git Professor Jose de Assis
 Curso Git e Github
